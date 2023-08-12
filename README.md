@@ -64,7 +64,7 @@ Para compilar esse projeto, você vai precisar adicionar as seguintes variáveis
 
 [APACHE LICENSE](https://choosealicense.com/licenses/apache-2.0/)
 
-Copyright 2023, Rayan Cordeiro
+Copyright 2023, Gabriel Bezerra
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
